@@ -1,3 +1,3 @@
 # hello-world
-get to know the github functionalities
+get to know the github functionality
 new to github 
