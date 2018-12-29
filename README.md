@@ -1,3 +1,4 @@
 # hello-world
-get to know the github functionality
+An example to 
+get to know the Github functionality
 new to github 
